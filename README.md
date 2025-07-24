@@ -43,7 +43,7 @@ No | Outline | Description
 ---|---|---
 1 | Traffic Analysis & Optimization | Analyze where our website traffic is coming from, how different sources perform in terms of traffic volume and conversion rates, and how we can adjust bids to optimize our budgets.
 2 | Website Measurement & Testing | Dive into page-level website data to compare traffic and conversion rates, and use MySQL to build and analyze conversion funnels to help optimize the customer purchase experience.
-3 | Preparing data for the executive board meeting.
+3 | Preparing data for the executive board meeting | The Board needs the answers for the questions regarding the business with the metrics and analytics with clear story.
 4 | Channel Analysis & Optimization | Dig deeper into our traffic channel mix, explore paid vs. free traffic, break down performance by device type, and write advanced SQL queries to conduct some time-series analyses to understand trending and seasonality.
 5 | Product-Level Analysis | Break down product-level sales and conversion rates, analyze cross-selling patterns, and use refund rates to keep a pulse on quality.
 
